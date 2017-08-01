@@ -21,11 +21,19 @@ Luennon kulku
     - suoritusmetodina luentopäiväkirja
     - ohjeet moodlessa
 
+- Kerrotaan kurssin aikataulusta
+    - Jako temaattisiin blokkeihin:
+        - johdanto + yleistä teoriaa (muistit jne )
+        - Tradosin peruskäyttö
+        - Kääntäjän resurssit
 - Nopeahko luentojohdatus CAT-ohjelmiin ja käännösteknologiaan
     - CAT-ohjelmien historiaa
         - 1. Word-integraatio
         - 2. Studiot
         - 3. Web-sovellukset?
+
+- Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä Tradosin?
+- Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä WordFastin?
 
 Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita kuin Trados)
 ---------------------------------------------------------------------------------------
