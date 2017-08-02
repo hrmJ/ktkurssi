@@ -1,0 +1,14 @@
+blockquote{
+    font-size:$quotesize;
+    margin-left:2em;
+    padding:0.5em;
+    border-radius:10px;
+    margin-top:1em;
+    line-height:130%;
+    color:$lighter-font;
+    text-align:justify;
+
+    p + p{
+        margin-top:1.5em;
+    }
+}

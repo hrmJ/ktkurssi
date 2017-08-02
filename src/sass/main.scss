@@ -9,4 +9,11 @@
 @import 'presentation/step';
 @import 'presentation/slide';
 @import 'presentation-elements/defaults';
+@import 'presentation-elements/custom';
 
+
+@import 'basiclayout/quotes';
+@import 'basiclayout/links';
+
+@import 'plugins/speaker-notes';
+@import 'plugins/substep';

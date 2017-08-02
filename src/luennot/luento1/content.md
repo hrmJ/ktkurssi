@@ -16,6 +16,8 @@ Luennon kulku
 
 - Kysytään oppilailta, mitä heille tulee mieleen sanasta *käännösteknologia*
 
+- HUOM! kysytään B-TYÖKIELET!
+
 - Kerrotaan kurssin suorittamisesta: 
     - jos haluaa op:t, on OK olla poissa 2 kertaa ja kolmannesta eteenpäin lisätehtäviä
     - suoritusmetodina luentopäiväkirja
@@ -34,6 +36,8 @@ Luennon kulku
 
 - Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä Tradosin?
 - Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä WordFastin?
+
+- LUODAAN JOKAISELLE kurssikansio X-asemalle!
 
 Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita kuin Trados)
 ---------------------------------------------------------------------------------------

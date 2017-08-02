@@ -1,0 +1,8 @@
+/*
+  Speaker notes allow you to write comments within the steps, that will not 
+  be displayed as part of the presentation. However, they will be picked up
+  and displayed by impressConsole.js when you press P.
+*/
+.notes {
+    display: none;
+}

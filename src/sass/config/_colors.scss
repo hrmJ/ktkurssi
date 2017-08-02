@@ -1,12 +1,6 @@
 
-$navfg: #ffffff;
-$navbg: #810000;
-
-$lightbg: #eeebe9;
-$contbg: #ffffff;
-
-$rowstripe:grey;
-$datarowbg: #dbdbdb;
+$linkcolor: #8f1505;
+$lighter-font: darken(grey,10%);
 
 @mixin datahiglight{
     background: lighten($navbg,10%);

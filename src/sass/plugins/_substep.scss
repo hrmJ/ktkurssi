@@ -1,0 +1,9 @@
+/* Using the substep plugin, hide bullet points at first, then show them one by one. */
+#impress .step .substep {
+    opacity: 0;
+}
+
+#impress .step .substep.substep-visible {
+    opacity: 1;
+    transition: opacity 1s;
+}

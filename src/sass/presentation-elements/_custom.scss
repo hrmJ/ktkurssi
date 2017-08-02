@@ -1,0 +1,38 @@
+.title-slide{
+    h1{
+        font-size:200%;
+    }
+}
+
+
+.basic-ul{
+    list-style-type:disc;
+    ul{
+        list-style-type:circle;
+        margin-left:1.5em;
+    }
+}
+
+.author-info{
+    padding: 0.4em;
+    color: $lighter-font;
+}
+
+// Tapauksia varten, joissa pitkiä sisältöjä
+.fit-much{
+
+    h2{
+        font-size: 1.1em;
+        margin-bottom:0.5em;
+    }
+
+    ul,p{
+        font-size:0.6em;
+    }
+
+}
+
+.indent{
+    margin-left:2em;
+}
+
