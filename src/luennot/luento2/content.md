@@ -34,4 +34,9 @@ Luennon kulku
 - Harjoitus: http://hrmj.github.io/kaannostyopaja/tehtava1.html#3
 - Esimerkkejä eri muistiformaateista: Trados ja WordFast
 
+JOS jää liikaa aikaa
+====================
+
+Mennään mustikkaan (puolukkaan) katsomaan muutamia käytännön esimerkkejä mätseistä ja konkordanssihausta.
+
 
