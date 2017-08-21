@@ -14,6 +14,8 @@ Luennon kulku
   "Trados-kurssi", koska tarkoitus on ottaa huomioon myös muita kääntäjälle
   tarpeellisia työkaluja. 
 
+- KYSYTÄÄN OPPILAILTA, milloin KÄYNEET KÄÄNNÖSTYÖPAJAN (ja pahoitellaan mahdollista toistoa).
+
 - Kysytään oppilailta, mitä heille tulee mieleen sanasta *käännösteknologia*
 
 - HUOM! kysytään B-TYÖKIELET!
