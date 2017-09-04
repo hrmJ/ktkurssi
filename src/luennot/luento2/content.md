@@ -11,13 +11,13 @@ Tutustutaan käännösmuistien rakenteeseen:
 Luennon kulku
 =============
 
-TODO: selkeä ohjesivu Moodleen!
-
 - Aloitetaan kääntämään kaikilla ohjelmilla yhtä samaa suomenkielistä lähdetekstiä omalle B-työkielelle.
 - Koetetaan luoda käännösmuisti (MYÖHEMMIN käsiteltäessä muisteja tarkemmin voidaan koettaa *tuoda* käännösmuisti)
 
 
 ### Opastetaan Tradosin asennus
+
+- [Kokeiluversion linkki](http://www.sdltrados.com/products/trados-studio/free-trial.html)
 
 ### Opastetaan WF asennus
 

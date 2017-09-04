@@ -225,3 +225,6 @@ a {
 #impress .step .substep.substep-visible {
   opacity: 1;
   transition: opacity 1s; }
+
+.small {
+  font-size: 0.2em; }

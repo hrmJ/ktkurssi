@@ -50,7 +50,7 @@ Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita ku
 - ryhmä 4: MateCat
 
 - Selvitetään kustakin:
-    - hinta
+    - (halvin mahdollinen) hinta
     - käyttöliittymävaihtoehdot (Web? Studio? Word-integraatio?)
     - Millä itseään markkinoi?
     - onko tunnettu?

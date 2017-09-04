@@ -1,327 +1,326 @@
-[_] ma 4.9. Luento 1: Johdanto käännösteknologiaan
+[_] ma 4.9. luento 1: johdanto käännösteknologiaan
 	kurssin ohjelma, arviointiperusteet jne
 		liitä esitykseen joka tunnin aihe, mainitse poikkeusperjantai 27.11.
-		Eli alustavan ohjelman oltava valmis ennen ensimmäistä tuntia!
-	moodlealueen esittely + käyttöopas + Trados-opas
-	Yleisesti CAT-ohjelmista ja käännösmuisteista ~ 20 min
+		eli alustavan ohjelman oltava valmis ennen ensimmäistä tuntia!
+	moodlealueen esittely + käyttöopas + trados-opas
+	yleisesti cat-ohjelmista ja käännösmuisteista ~ 20 min
 		luento 1 käännöstyöpajasta
-		Google Translator's toolkit
+		google translator's toolkit
 		wf anywhere
-	Tradosin versioista (2015)
-		Tampereen yliopiston koekaniinistatus
-	Hankkimisesta: muista mainita mahdollinen opiskelija-alennus (~100e/vuosi) ja valmistumisen jälkeinen alennus
-	Pyydä jotakuta ottamaan oma läppäri + olemaan valmis ottamaan kokeiluversio käyttöön MUTTA olemaan vielä hankkimatta sitä
-		Kaikki muutkin halukkaat voivat ottaa läppärin, niin että ensi kerralla käydään yhdessä läpi asennusta
-	Kurssikansion luominen x-levylle
-	Kokoontuminen ryhmiin ja ryhmissä mietitään, mitä erityisesti haluaa
+	tradosin versioista (2015)
+		tampereen yliopiston koekaniinistatus
+	hankkimisesta: muista mainita mahdollinen opiskelija-alennus (~100e/vuosi) ja valmistumisen jälkeinen alennus
+	pyydä jotakuta ottamaan oma läppäri + olemaan valmis ottamaan kokeiluversio käyttöön mutta olemaan vielä hankkimatta sitä
+		kaikki muutkin halukkaat voivat ottaa läppärin, niin että ensi kerralla käydään yhdessä läpi asennusta
+	kurssikansion luominen x-levylle
+	kokoontuminen ryhmiin ja ryhmissä mietitään, mitä erityisesti haluaa
 	:kurssilla käsiteltävän, mitä mahdollisesti ei ollut dioissa
-	Avataan Trados, *yleiskatsaus käyttöliittymään*
-		Voidaan avata myös yksittäinen tiedosto ja tehdä ensimmäinen katsaus käännöäseditoriin
-[ ] ma 11.9. Luento 2: Asennus + teoriaa muisteista
-	Halukkaat voivat ottaa kokeiluversion käyttöön ja
-		1) Joko seurata mukana ja klikkailla jutut tradosin sivuilta
-	Muisteista:
+	avataan trados, *yleiskatsaus käyttöliittymään*
+		voidaan avata myös yksittäinen tiedosto ja tehdä ensimmäinen katsaus käännöäseditoriin
+[ ] ma 11.9. luento 2: asennus + teoriaa muisteista
+	halukkaat voivat ottaa kokeiluversion käyttöön ja
+		1) joko seurata mukana ja klikkailla jutut tradosin sivuilta
+	muisteista:
 		ryhmittäin etsitään tai pohditaan merkitykset eri osumaluokille:
-			- 100 0% Match vs. CM
+			- 100 0% match vs. cm
 			- x 0% match
-		Ryhmittäin:
-			- Minkälaisia temaattisia kokonaisuuksia kannattaa tallentaa yhteen muistiin?
-		Miten käännösmuisti toimii? 
-			Mikä sen mielestä on vastaavuus?
-			Tehtävä: arvaa vastaavuusprosentti
-				ks. tehtava1.Rmd käännöstyöpaja-gitissä
-		Minimum match + Formatting penalty
-			Mainitaan käsitteinä, muistutetaan näistä ja palataan näihin ensi kerralla
-		Konkordanssihaku
-[ ] ma 18.9. Luento 3: Käytännön harjoituksia muisteista + käännöseditorista
-	Luentodiat:
-		k:\opetus\kaannostyopaja\mvks47_luento3.Rmd
-	1. Muisteista:
-		Tutkitaan oman työkielen mukaisia muisteja käännöstyöpaja-kurssilta
-		Muistin yleinen tutkiminen
-			1.Katsotaan yhdessä
-				Huom! Tee jonkinlaiset muistiinpanot, jotta kohta osaat
-				Käyttöliittymä
-					- Settings-valikko ylhäällä
+		ryhmittäin:
+			- minkälaisia temaattisia kokonaisuuksia kannattaa tallentaa yhteen muistiin?
+		miten käännösmuisti toimii? 
+			mikä sen mielestä on vastaavuus?
+			tehtävä: arvaa vastaavuusprosentti
+				ks. tehtava1.rmd käännöstyöpaja-gitissä
+		minimum match + formatting penalty
+			mainitaan käsitteinä, muistutetaan näistä ja palataan näihin ensi kerralla
+		konkordanssihaku
+[ ] ma 18.9. luento 3: käytännön harjoituksia muisteista + käännöseditorista
+	1. muisteista:
+		tutkitaan oman työkielen mukaisia muisteja käännöstyöpaja-kurssilta
+		muistin yleinen tutkiminen
+			1.katsotaan yhdessä
+				huom! tee jonkinlaiset muistiinpanot, jotta kohta osaat
+				käyttöliittymä
+					- settings-valikko ylhäällä
 					- itse muistit alhaalla
-					- Navigation-paneeli ylhäällä
-						- "Näitä on täällä kyllä enemmän"
-						- Mistä voi säätää sitä, kuinka monta näkyy:
-							- file -- options -- Translation memories view
+					- navigation-paneeli ylhäällä
+						- "näitä on täällä kyllä enemmän"
+						- mistä voi säätää sitä, kuinka monta näkyy:
+							- file -- options -- translation memories view
 					- yksittäinen rivi
-						- Huomaa esimerkiksi usage count
-					- Etsi
+						- huomaa esimerkiksi usage count
+					- etsi
 						- filtterimäinen haku
 						- yksinkertainen find filtteröityjen joukosta
 						- tyhjä haku
-					- Poistaminen
+					- poistaminen
 						- klikkaa oikealla
 						- muista commit
 						- batch delete
-				Muutoksen tekeminen
+				muutoksen tekeminen
 					- klikkaa segmenttiä
 					- tee muutos
 					- klikkaa vaikka toista segmenttiä
 					- tee muutos
 					- paina "commit changes"
-				Batch edit
+				batch edit
 					- esimerkiksi tägien poistaminen
-			2. Harjoitellaan itsenäisesti
+			2. harjoitellaan itsenäisesti
 				- katso ohjeet luentodioista
-		Muistin eksportoiminen ja importoiminen
-			1. Katsotaan yhdessä
-				- Voi vain ottaa tiedoston, kopioida ja lähettää
-				- Kuitenkin jos 
+		muistin eksportoiminen ja importoiminen
+			1. katsotaan yhdessä
+				- voi vain ottaa tiedoston, kopioida ja lähettää
+				- kuitenkin jos 
 					- eri versiot
 					- eri ohjelmat
 					- yhdistäminen
 					- >>> parempi konvertoida välissä tmx (translation memory exchange) -muotoon
-				- Näytä tmx
-				- Mahdollista muokata myös tässä
-				- Painetaan export-nappia, ja ainoa vaihtoehto tmx
-				- importoiminen *Aina johonkin muistiin* - vaikka sitten tyhjään
-			2. Harjoitellaan itsenäisesti
+				- näytä tmx
+				- mahdollista muokata myös tässä
+				- painetaan export-nappia, ja ainoa vaihtoehto tmx
+				- importoiminen *aina johonkin muistiin* - vaikka sitten tyhjään
+			2. harjoitellaan itsenäisesti
 				- katso ohjeet luentodioista
-		Muistien yhdistäminen
+		muistien yhdistäminen
 			moodlessa vaikka fi-sv-kieliparin muisteja kaksi
 			tehtävänä yhdistää nämä kaksi
 			tmx-viennin kautta
-		Muistin luominen
-			Usein projektin tms. luomisen yhteydessä, mutta mahdollista myös erikseen
-			Konventiot nimeämisessä
-			Oikean kielivariantin valitsemisen olennaisuus! (fi-FI, en-GB, sv-SE)
-	2. Käännöseditoriin tutustumista 1.2
-		Avataan tiedosto (hotelliteksti) single file -toiminnolla ja liitetään siihen muisti
-			- Korostetaan, että vahvistaminen tallentaa yksikön muistiin.
+		muistin luominen
+			usein projektin tms. luomisen yhteydessä, mutta mahdollista myös erikseen
+			konventiot nimeämisessä
+			oikean kielivariantin valitsemisen olennaisuus! (fi-fi, en-gb, sv-se)
+	2. käännöseditoriin tutustumista 1.2
+		avataan tiedosto (hotelliteksti) single file -toiminnolla ja liitetään siihen muisti
+			- korostetaan, että vahvistaminen tallentaa yksikön muistiin.
+			- HUOM: KIINNITÄ huomiota tekstinsisäiseen toistoon ja propagoitumiseen
+				- pointti siinä, että myöhemmin toistuvia (muttei alun perin muistissa olleita) segmenttejä voi muuttaa kaikkia kerralla muokkaamalla ensimmäistä 
+				- tai toisaalta ajamalla uudestaan batch tasks voisi ajaa saman asian (?)
 			- tallennettua yksikköä voi editoida joko muistissa (niin kuin äsken)
 			: tai suoraan käännöseditorissa
-		Asetukset siitä, tehdäänkö uusi segmentti, korvataanko vanha jne.
+		asetukset siitä, tehdäänkö uusi segmentti, korvataanko vanha jne.
 		segmentointiasetukset
-[ ] ma 25.9. Luento 4: Word-tiedostot ja projektit
-	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento4.Rmd
-	Kurkistus word-tiedoston konepellin alle
-		Mitkä kaikki tiedostot ovat word-tiedostoja?
-			-entä rtf, odt, yms.? Txt?
-		Muistutus: Tiedosto ei voi olla auki yhtä aikaa Tradosissa ja Wordissä!
-		1. Avataan wordissä jokin tiedosto (zanettin2011)
-			c:\Users\jh89963.STAFF\Dropbox\opetus\tradoskurssi\harjoitusmateriaalia\zanettin_2011.docx
-		2. Mietitään, mistä osista tiedosto koostuu
-		3. Tutkitaan muotoiluja shift + f1 -yhdistelmällä
-		4. Tutkitaan varsinaista xml-tiedostoa kaiken takana
-			c:\Users\jh89963.STAFF\Dropbox\opetus\tradoskurssi\harjoitusmateriaalia\zanettin_konepellin_alla.xml
-		5. Mietitään, miten muisti jaksottaa näitä segmenteiksi
-			Jos mahdollista, joskus kannattaa itse "Auttaa" Tradosia ja järjestää selkeämmiksi segmenteiksi
-		6. Avataan tämäkin single file -toiminnolla ja katsotaan, mihin rajat itse asiassa vedettiin
+[ ] ma 25.9. luento 4: word-tiedostot ja projektit
+	kurkistus word-tiedoston konepellin alle
+		mitkä kaikki tiedostot ovat word-tiedostoja?
+			-entä rtf, odt, yms.? txt?
+		muistutus: tiedosto ei voi olla auki yhtä aikaa tradosissa ja wordissä!
+		1. avataan wordissä jokin tiedosto (zanettin2011)
+			c:\users\jh89963.staff\dropbox\opetus\tradoskurssi\harjoitusmateriaalia\zanettin_2011.docx
+		2. mietitään, mistä osista tiedosto koostuu
+		3. tutkitaan muotoiluja shift + f1 -yhdistelmällä
+		4. tutkitaan varsinaista xml-tiedostoa kaiken takana
+			c:\users\jh89963.staff\dropbox\opetus\tradoskurssi\harjoitusmateriaalia\zanettin_konepellin_alla.xml
+		5. mietitään, miten muisti jaksottaa näitä segmenteiksi
+			jos mahdollista, joskus kannattaa itse "auttaa" tradosia ja järjestää selkeämmiksi segmenteiksi
+		6. avataan tämäkin single file -toiminnolla ja katsotaan, mihin rajat itse asiassa vedettiin
 			- luodaan muisti tätä varten
-			- Katsotaan myös, mitä trados merkitsee oikeaan marginaaliin (p,h;jne)
-			- Huomioidaan, että vasemmalla näkyy myös dokumentin rakenne
-			- Aivan vasemmalla myös segmentin numero, joka voi olla hyödyksi esimerkiksi arviointivaiheessa
-		7. Splitting and merging in trados studio 2015
+			- katsotaan myös, mitä trados merkitsee oikeaan marginaaliin (p,h;jne)
+			- huomioidaan, että vasemmalla näkyy myös dokumentin rakenne
+			- aivan vasemmalla myös segmentin numero, joka voi olla hyödyksi esimerkiksi arviointivaiheessa
+		7. splitting and merging in trados studio 2015
 			milloin mahdollista?
-				Split tapahtuu itse tekstikentästä käsin
-				Merge:
-					"You can only merge neighbor segments in the same paragraph."
-		8. Avataan uudestaan ja muutetaan segmentointia kappalekohtaiseksi
+				split tapahtuu itse tekstikentästä käsin
+				merge:
+					"you can only merge neighbor segments in the same paragraph."
+		8. avataan uudestaan ja muutetaan segmentointia kappalekohtaiseksi
 			- mainitse segmentointisääntöjen muuttamista language resource template:ien avulla
-		9.  Välihuomautus: muistin muokkaaminen käännöseditorista käsin
-	Projektit Tradosissa: teoriaa
-		1. Mikä on projekti?
-		2. Voiko kääntää luomatta projektia?
+		9.  välihuomautus: muistin muokkaaminen käännöseditorista käsin
+	projektit tradosissa: teoriaa
+		1. mikä on projekti?
+		2. voiko kääntää luomatta projektia?
 			- translate single file
-		3. Miksi luoda projekteja?
-		4. Deadlinet ja niiden pointti, etenemisen seuraaminen
-		?5. Projektimallit (templates)
-		6. Projektikansio ja output-tiedostot
-		7. Projektipaketit
-	Projektit Tradosissa: käytäntöä
-		Käsitellään erikseen jokainen ruutu Create project -wizardissa
-			1  Project Type
-			2  Project Details
-			3  Project Languages
-			4  Project Files
-				Mainitse File Types -nappula
-				Jos yhtään epäilet, kurkkaa, mitä asetuksia Tradosilla on tarjota tähän
-			5  Translation memory and automated translation
-			6  Termbases
-			7  SDL Perfect Match
-			8  Project preparation
-			9  Batch processing settings
-			10 Project summary
-		:Voi olla hyödyllistä toimia niin, että ensin skriinillä esityksenä,
+		3. miksi luoda projekteja?
+		4. deadlinet ja niiden pointti, etenemisen seuraaminen
+		?5. projektimallit (templates)
+		6. projektikansio ja output-tiedostot
+		7. projektipaketit
+	projektit tradosissa: käytäntöä
+		käsitellään erikseen jokainen ruutu create project -wizardissa
+			1  project type
+			2  project details
+			3  project languages
+			4  project files
+				mainitse file types -nappula
+				jos yhtään epäilet, kurkkaa, mitä asetuksia tradosilla on tarjota tähän
+			5  translation memory and automated translation
+			6  termbases
+			7  sdl perfect match
+			8  project preparation
+			9  batch processing settings
+			10 project summary
+		:voi olla hyödyllistä toimia niin, että ensin skriinillä esityksenä,
 		:vasta sitten ikään kuin annetaan luurankoon lihat, ja otetaan itse
-		:Trados käsiin
-		Luodaan projekti
-		Käsitellään project template
-		Käsitellään Finalize-toiminto
-[ ] ma 2.10 Luento 5: Projektien luominen ja käännöseditori
+		:trados käsiin
+		luodaan projekti
+		käsitellään project template
+		käsitellään finalize-toiminto
+[ ] ma 2.10 luento 5: projektien luominen ja käännöseditori
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento5.Rmd
-	1. Käydään läpi projektipohjat
-		ilman, että Trados vielä avattu
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento5.rmd
+	1. käydään läpi projektipohjat
+		ilman, että trados vielä avattu
 		- language pairs
 			- muistit ja prosentit
 		- default task sequence
-	2. Harjoituksia projektin luomisesta
-		Moodlessa ohjeet, itse edessä päivystämässä
-		: Muutama harjoitus. Mennään harjoitus kerrallaan, x min per harjoitus,
+	2. harjoituksia projektin luomisesta
+		moodlessa ohjeet, itse edessä päivystämässä
+		: muutama harjoitus. mennään harjoitus kerrallaan, x min per harjoitus,
 		: joka harjoituksen jälkeen käydään yhdessä läpi ja mietitään
 		: ongelmakohtia
 		1. harjoitus
 			- luodaan projektimalli
-			- luo 2: fi-B ja B-fi
+			- luo 2: fi-b ja b-fi
 		1. harjoitus 
 			- hotellitekstitiedostot + hotellimuisti
 		2. harjoitus
 			- useantyyppisten tiedostojen liittäminen projektiin
-		Projektipaketit
-			Avaa projektipaketti Moodlesta
-		Maininta siitä, että projektin lataus suoraan serveriltä helppoa!
-	3. Kun harjoitukset on tehty:
-		Projektisivulla navigoiminen
+		projektipaketit
+			avaa projektipaketti moodlesta
+		maininta siitä, että projektin lataus suoraan serveriltä helppoa!
+	3. kun harjoitukset on tehty:
+		projektisivulla navigoiminen
 			projektien filtteröinti
-		Project settings yhdessä
-		Finalize + output-tiedostot
-	4. Käännöseditoriin tutustumista 2
-		Äsken luotuja tiedostoja ruvetaan kääntämään
-[ ] ma 9.10. Luento 6: Muut tiedostomuodot 1
+		project settings yhdessä
+		finalize + output-tiedostot
+	4. käännöseditoriin tutustumista 2
+		äsken luotuja tiedostoja ruvetaan kääntämään
+[ ] ma 9.10. luento 6: muut tiedostomuodot 1
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento6b.Rmd
-		Rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento6b.rmd
+		rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
 	viime kerrasta jääneitä projektiasetuksia
-		- Avataan kaikki projektipaketit
-		- Käännetään pikku käännös loppuun asti
-		- Verifioidaan + tarkistetaan oikeinkirjoitus
+		- avataan kaikki projektipaketit
+		- käännetään pikku käännös loppuun asti
+		- verifioidaan + tarkistetaan oikeinkirjoitus
 			- tutkitaan verifiointiin liittyviä asetuksia
-		- Viimeistellään
-		- Palautetaan projektipaketti
+		- viimeistellään
+		- palautetaan projektipaketti
 	pdf
-		Projektia luotaessa:
-			project files -välilehdellä klikkaa suppilon kuvaa (File Types)
+		projektia luotaessa:
+			project files -välilehdellä klikkaa suppilon kuvaa (file types)
 			pdf---convert
-		Konvertointi muulla keinoin
+		konvertointi muulla keinoin
 			online-konvertoijat
 			?copypaste
-		Omalta läppäriltä OCR:n näyttäminen?
+		omalta läppäriltä ocr:n näyttäminen?
 		mahdollisesti kotitehtäcäksi ohjeitten perusteella?
 	odt, odf jne
 		testitiedostot moodlessa
-		kysymys: tukeeko Trados open/libreoffice-tiedostoja?
+		kysymys: tukeeko trados open/libreoffice-tiedostoja?
 	ppt
 	html
 		tägien syöttäminen
-	Eksotiikkaa: mainitse tekstitystiedostot (subrip/.srt)
+	eksotiikkaa: mainitse tekstitystiedostot (subrip/.srt)
 		+ kaikki muut tärkeämmät tiedostotyypit
-[ ] ma 16.10 Luento 7: Muut tiedostomuodot 2
-	Luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento7.Rmd
-		Rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
-	Käydään harjoitukset läpi ensin nopeasti yhdessä dioilta
-	Katsotaan yhteisesti html-käännöksestä tägien syöttämistä
-	(mukaan voi ottaa läppäreitä FreeOCR:n testaamista varten)
-	Tekstitysharjoitus
-		Käydään läpi myös lyhyiden segmenttien filtteröinti
+[ ] ma 23.10 luento 7: muut tiedostomuodot 2
+	luentodiat
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento7.rmd
+		rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
+	käydään harjoitukset läpi ensin nopeasti yhdessä dioilta
+	katsotaan yhteisesti html-käännöksestä tägien syöttämistä
+	(mukaan voi ottaa läppäreitä freeocr:n testaamista varten)
+	tekstitysharjoitus
+		käydään läpi myös lyhyiden segmenttien filtteröinti
 	tehdään osittainen "rastirata", niin että muut kääntävät, yksi pari kerrallaan käy tutustumassa finereaderiin
 	opensubtitles resurssina
-	Jätetään viimeinen kone auki, niin että sillä voi testata finereaderia
-	PDF ja konvertointi?
-	Käännetään tiedostoja
-		Tägien syöttämisen eri tekniikat yhteisesti
-[ ] Luento 8: Edistyneemmät editoritoiminnot ja mitä sitten, kun käännös on valmis
-	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento8.Rmd
-	Tradosin asetusten säätäminen mukaviksi
-		- PLACABLES(?)
-		- File -- options
-		- Editor-kohta vasemmalta läpi kohta kohdalta (vain tärkeät kuitenkin)
+	jätetään viimeinen kone auki, niin että sillä voi testata finereaderia
+	pdf ja konvertointi?
+	käännetään tiedostoja
+		tägien syöttämisen eri tekniikat yhteisesti
+[ ] ma 30. 10. luento 8: edistyneemmät editoritoiminnot ja mitä sitten, kun käännös on valmis
+	ehkä?
+		Kokeile wordfastillä konekääntimen mukanaoloa?
+	tradosin asetusten säätäminen mukaviksi
+		- placables(?)
+		- file -- options
+		- editor-kohta vasemmalta läpi kohta kohdalta (vain tärkeät kuitenkin)
 			- pikanäppäimiin lisäys: preview
 			- pikanäppäimet: lisää symboli
-	Avataan jokin viimekertaisista projekteista
+	avataan jokin viimekertaisista projekteista
 		- jatketaan muistien filtteröimistä viime kerralta
-		- Mitä ribboneissa ylipäätään on?
+		- mitä ribboneissa ylipäätään on?
 			- erikoismerkit, goto
-			- View-valikossa ikkunoiden säätäminen
+			- view-valikossa ikkunoiden säätäminen
 			- muotoilut home-valikossa
-			- Filtterit review-valikossa
-			- alternative translation Layout
+			- filtterit review-valikossa
+			- alternative translation layout
 			- jopa ribbonien muokkaus
-		- Filtterit, konkordanssihaku
-			1. Vahvista joitakin segmenttejä
-			2. View-välilehti tai ruudun alareuna
+		- filtterit, konkordanssihaku
+			1. vahvista joitakin segmenttejä
+			2. view-välilehti tai ruudun alareuna
 				- testataan filtteröimistä hetken aikaa
 			3. konkordanssihaun kaksi tapaa
 			4. pikanäppäinmuistutus
-			5. Avataan html-tiedosto
+			5. avataan html-tiedosto
 				- ajetaan verifiointi
 				- filter:warnings
-			6. Katsaus statistiikkaan
-	Pluginit:
+			6. katsaus statistiikkaan
+	pluginit:
 		- käydään läpi, mitä kaikkia erilaisia saatavissa
 		- rekisteröitymispulma
 		- näytetään myös, mistä saisi konekääntimet käyttöönsä
-	Muuta
-		- Muistutus luentopäiväkirjasta
-		- Kotitehtävänä etsiä ensi viikoksi tiedostoja
-	Jatketaan viime kerran tekstien kääntämistä
+	muuta
+		- muistutus luentopäiväkirjasta
+		- kotitehtävänä etsiä ensi viikoksi tiedostoja
+	jatketaan viime kerran tekstien kääntämistä
 		- verifioidaan käännökset, viimeistellään
 		- projektimuistin luominen myös lopuksi
 		- muistin muokkaaminen
-[ ] Luento 9: Lisää resursseja! Kohdistaminen ym.
+[ ] ma 6.11. luento 9: lisää resursseja! kohdistaminen ym.
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento9.Rmd
-	- Aluksi: mitä kohdistamisella tarkoitetaan ja mitä hyötyä siitä on?
-	- Aling-editorin perustoimintaa
-	- Avataan jo nyt harjoitustiedosto
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento9.rmd
+	- aluksi: mitä kohdistamisella tarkoitetaan ja mitä hyötyä siitä on?
+	- aling-editorin perustoimintaa
+	- avataan jo nyt harjoitustiedosto
 	- resurssien hakeminen / muistien luominen nettiaineistojen pohjalta
 	- omia tiedostoja mukaan ensi kerraksi!
-		- Trados "korpusten käyttöliittymänä"
+		- trados "korpusten käyttöliittymänä"
 		- omia käännöksiä käännöskursseilta
 		- etsi nettisivu, joka on molemmilla kielillä
 		- opus-aineistoja omaksi muistiksi (http://opus.lingfil.uu.se/)
 		- tsekkaa lens.org
-			- korpus: B-kieli >> en jne.?
+			- korpus: b-kieli >> en jne.?
 			- yksikieliset korpukset netissä
-[ ] Luento 10: Kohdistus: käytäntöä
+[ ] ma 13.11. luento 10: kohdistus: käytäntöä
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento10.Rmd
-	- Muodostetaan harjoituksena yhdessä oma muisti jostain opuksen (esim. tietoteknisestä) korpuksesta
-	- Omien resurssien kohdistaminen käännösmuisteiksi
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento10.rmd
+	- muodostetaan harjoituksena yhdessä oma muisti jostain opuksen (esim. tietoteknisestä) korpuksesta
+	- omien resurssien kohdistaminen käännösmuisteiksi
 		- muisti jostain omasta kurssikäännöksestä
 	- skenaario: käännöstoimeksianto firmalta/-lle., jolla olemassa nettisivut molemmilla kielillä
 		- muistin luominen
-	- Käännöstehtävä resursseja hyödyntäen?
-	- Netin valmiit korpusaineistot/käyttöliittymät: linguee, glosbe, huom: ABBYY lingo live
-[ ] Luento 11: Termipankit: teoriaa
+	- käännöstehtävä resursseja hyödyntäen?
+	- netin valmiit korpusaineistot/käyttöliittymät: linguee, glosbe, huom: abbyy lingo live
+[ ] ma 20.11. luento 11: termipankit: teoriaa
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento11.Rmd
-	- Kudashevin työkaluista ja venäjän puolella tehtävästä työstä!
-	- Netin termitietokantoja
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento11.rmd
+	- kudashevin työkaluista ja venäjän puolella tehtävästä työstä!
+	- netin termitietokantoja
 	- nopea kertaus excelistä
 	- pientä johdatusta myös tietokantoihin
-	- Tehdään pieni EU-aiheinen käännös, jota varten luodaan termitietokanta on the fly
+	- tehdään pieni eu-aiheinen käännös, jota varten luodaan termitietokanta on the fly
 		- luonti tapahtuu kieliparikohtaisissa ryhmissä
 		- ryhmät luovat taulukon google drivessa / o365:ssa
-[ ] Luento 12: Termipankit: käytäntöä
+[ ] ma 27.11. luento 12: termipankit: käytäntöä
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento12.Rmd
-	Tunnin kulku
-		1. Käsitellään kysymys poissaoloista
-		2. Käsitellään kurssisuorituksia
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento12.rmd
+	tunnin kulku
+		1. käsitellään kysymys poissaoloista
+		2. käsitellään kurssisuorituksia
 			- kertauskysymykset
 			- käännös, termitietokanta, essee
 			- päivämäärä
 				- haluaako joku nopeammin?
-		3. Luodaan harjoitusta varten muisti netistä
+		3. luodaan harjoitusta varten muisti netistä
 			- ladataan tmx
 				- en,sa dgt
 				- ve: opus
-		4. Luodaan termitietokanta viime kerran pohjalta
-			1. konvertoidaan taulukko Multiterm-muotoon
-			2. Luodaan uusi tietokanta konversion tuloksena saadusta mallista
-			3. Tuodaan xml osaksi tietokantaa
-		5. Katsotaan, että AutoSuggest on päällä
-		6. Luodaan projekti, jossa on sekä käännösmuisti että termitietokanta (itsenäisesti)
-		7. Katsotaan termitietokannan toimintaa käytännössä
+		4. luodaan termitietokanta viime kerran pohjalta
+			1. konvertoidaan taulukko multiterm-muotoon
+			2. luodaan uusi tietokanta konversion tuloksena saadusta mallista
+			3. tuodaan xml osaksi tietokantaa
+		5. katsotaan, että autosuggest on päällä
+		6. luodaan projekti, jossa on sekä käännösmuisti että termitietokanta (itsenäisesti)
+		7. katsotaan termitietokannan toimintaa käytännössä
 			- klikkaa tyhjää segmenttiä
 			- konkordanssihaku muistista
 			- autosuggest
@@ -329,15 +328,14 @@
 			- kokeillaan uuden termin lisäämistä lennosta
 				- pohditaan tätä lähestymistapaa vaihtoehtona taulukoille
 			- mahdollisesti kenttä "1. vaihtoehto"
-		8. Käännetään lopputunti
-[ ] Luento 13: Tarkastusprosessi + kertausta
-	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento13.Rmd
-	Tunnin kulku
-		0. Käännetään n. 10.45 asti
+		8. käännetään lopputunti
+[ ] ma 4.12. luento 13: tarkastusprosessi + kertausta
+	tunnin kulku
+		- HUOM: Update from Bilingual Review -prosessi!! (ks. M. dia "Käännösprosessi valmis")
+		0. käännetään n. 10.45 asti
 			- kysytään samalla kertausaiheita
 			- jos ei juurikaan, niin lopusta ei tarvitse jättää siihen aikaa
-		1. Valitaan pari (mieluiten omasta kieliparista)
+		1. valitaan pari (mieluiten omasta kieliparista)
 			- jos ei mene tasan?
 				- pääasia, että jokainen saa tarkastaa
 				- joku saa palautteen kahdelta, mutta jää itse vaille
@@ -346,45 +344,45 @@
 				- sille lähetetään joku muu saman kielen tarkistettu
 			- pidetään huolta, että jokainen saa joltakulta tekstin
 		2. lähetetään oma sdlxliff-tiedosto/paketti kaverille 
-			- Voidaan tehdä niin, että viestiketju moodlessa
+			- voidaan tehdä niin, että viestiketju moodlessa
 			- avataan open for review -toiminnolla
 			- tarkistetaan, verifioidaan, tehdään return package
-		3. Käydään läpi, mitä tarkistaminen tradosissa tarkoittaa
-		4. Testataan word-tarkistustiedoston tekoa ja tuomista
-		6. Kerrataan termipankin luominen
-	Projektimuistista vielä kerran
+		3. käydään läpi, mitä tarkistaminen tradosissa tarkoittaa
+		4. testataan word-tarkistustiedoston tekoa ja tuomista
+		6. kerrataan termipankin luominen
+	projektimuistista vielä kerran
 	omien ja toisten käännösten tarkistusta ja palauttamista takaisin
-	Otsikko: intro
-[ ] Luento 14: Edistyneempää tiedonhakua + kurssipalaute
+	otsikko: intro
+[ ] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute
 	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento14.Rmd
-	Tunnin kulku
-		1. Luodaan kokeilukäyttäjätilit sketch engine -palveluun
+		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento14.rmd
+	tunnin kulku
+		1. luodaan kokeilukäyttäjätilit sketch engine -palveluun
 			- jätetään hautumaan eli odotellaan, että sähköposteihin tulee vahvistus
-		2. Kerrataan käännösmuisteista
-			Projektimuisti vs. main translation memories
+		2. kerrataan käännösmuisteista
+			projektimuisti vs. main translation memories
 			tmx-tuonti/vienti
 			muistin voi luodassa useammassa eri paikassa
 			muistin voi liittää vaikka kesken projektin
 				- project settings aina apuna
 			poistaminen,korvaaminen, etsiminen
-		3. Testataan sketch engine -palvelua
-			1. Word sketch
+		3. testataan sketch engine -palvelua
+			1. word sketch
 				- suomi: populisti, harvesteri
 				- englanti: consider
 					- klikkaa jotakin esimerkkiä
-			2. Thesaurus
+			2. thesaurus
 				- englanti: consider
 					- klikkaa esimerkkiä, niin antaa sketch diffin
-			3. Korpuksen luominen jonkin aihepiirin ympärille
-				- Kysy aihetta 
+			3. korpuksen luominen jonkin aihepiirin ympärille
+				- kysy aihetta 
 				- fysiikka?
-		4. Testataan automaattista wikipediasanastoa
+		4. testataan automaattista wikipediasanastoa
 			- imacros
-		5. Kurssipalaute (5 min)
+		5. kurssipalaute (5 min)
 	aiheita
-		Sketch Engine / nosketch engine
+		sketch engine / nosketch engine
 		(wikipediatiedon automatisointia)
-		Q&A
+		q&a
 		kurssipalaute
-			- Opitko kurssilla jotain muuta kuin Tradosiin liittyvää
+			- opitko kurssilla jotain muuta kuin tradosiin liittyvää
