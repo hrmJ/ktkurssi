@@ -17,7 +17,7 @@
 	:kurssilla käsiteltävän, mitä mahdollisesti ei ollut dioissa
 	avataan trados, *yleiskatsaus käyttöliittymään*
 		voidaan avata myös yksittäinen tiedosto ja tehdä ensimmäinen katsaus käännöäseditoriin
-[ ] ma 11.9. luento 2: asennus + teoriaa muisteista
+[X] ma 11.9. luento 2: asennus + CAT-vaihtoehtoja
 	halukkaat voivat ottaa kokeiluversion käyttöön ja
 		1) joko seurata mukana ja klikkailla jutut tradosin sivuilta
 	muisteista:
@@ -33,7 +33,10 @@
 		minimum match + formatting penalty
 			mainitaan käsitteinä, muistutetaan näistä ja palataan näihin ensi kerralla
 		konkordanssihaku
-[ ] ma 18.9. luento 3: käytännön harjoituksia muisteista + käännöseditorista
+[ ] ma 18.9. luento 3: Teoriaa + käytännön harjoituksia muisteista
+	VARALLA, jos ei trados toimi:
+		tutkitaan Wordfastin muisteja ja ehkä kurkataan mustikkaan
+		katsotaan SmartCatista, miten muisteja voi eksportoida
 	1. muisteista:
 		tutkitaan oman työkielen mukaisia muisteja käännöstyöpaja-kurssilta
 		muistin yleinen tutkiminen
@@ -99,6 +102,8 @@
 		asetukset siitä, tehdäänkö uusi segmentti, korvataanko vanha jne.
 		segmentointiasetukset
 [ ] ma 25.9. luento 4: word-tiedostot ja projektit
+	TÄHÄN VÄLIIN:
+		- segmentoiminen: säännöt, sääntöjen muokkaaminen, ...
 	kurkistus word-tiedoston konepellin alle
 		mitkä kaikki tiedostot ovat word-tiedostoja?
 			-entä rtf, odt, yms.? txt?
@@ -273,6 +278,7 @@
 	- avataan jo nyt harjoitustiedosto
 	- resurssien hakeminen / muistien luominen nettiaineistojen pohjalta
 	- omia tiedostoja mukaan ensi kerraksi!
+		- MAINITSE KORP!
 		- trados "korpusten käyttöliittymänä"
 		- omia käännöksiä käännöskursseilta
 		- etsi nettisivu, joka on molemmilla kielillä
@@ -280,6 +286,12 @@
 		- tsekkaa lens.org
 			- korpus: b-kieli >> en jne.?
 			- yksikieliset korpukset netissä
+	HUOM! JOHONKIN väliin: korpusten lemmatisointi?
+		1. muodosta kohdistettu tiedostopari (= muisti)
+		2. kopioi tämä muisti esim. nimellä fi-en_lemmatized.sdltm/tmx/...
+		3.a liitä joka segmenttiin varsinaisen segmentin jälkeen segmentti, joka sisältää vain lemmat joka sanasta
+		3.b ??
+		4. Tee konkordanssihakuja
 [ ] ma 13.11. luento 10: kohdistus: käytäntöä
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento10.rmd
