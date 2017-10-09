@@ -33,7 +33,7 @@
 		minimum match + formatting penalty
 			mainitaan käsitteinä, muistutetaan näistä ja palataan näihin ensi kerralla
 		konkordanssihaku
-[ ] ma 18.9. luento 3: Teoriaa + käytännön harjoituksia muisteista
+[X] ma 18.9. luento 3: Teoriaa + käytännön harjoituksia muisteista
 	VARALLA, jos ei trados toimi:
 		tutkitaan Wordfastin muisteja ja ehkä kurkataan mustikkaan
 		katsotaan SmartCatista, miten muisteja voi eksportoida
@@ -101,9 +101,10 @@
 			: tai suoraan käännöseditorissa
 		asetukset siitä, tehdäänkö uusi segmentti, korvataanko vanha jne.
 		segmentointiasetukset
-[ ] ma 25.9. luento 4: word-tiedostot ja projektit
+[X] ma 25.9. luento 4: word-tiedostot ja projektit
 	TÄHÄN VÄLIIN:
 		- segmentoiminen: säännöt, sääntöjen muokkaaminen, ...
+		- tmx-vaihto?
 	kurkistus word-tiedoston konepellin alle
 		mitkä kaikki tiedostot ovat word-tiedostoja?
 			-entä rtf, odt, yms.? txt?
@@ -158,7 +159,12 @@
 		luodaan projekti
 		käsitellään project template
 		käsitellään finalize-toiminto
-[ ] ma 2.10 luento 5: projektien luominen ja käännöseditori
+[X] ma 2.10 luento 5: projektien luominen ja käännöseditori
+	Muista käsitellä:
+		- Viimeistely ja se, mitä käännöksen jälkeen
+		- luomiseen liittyvät asetukset ja project memory
+		- luokaa RUTOSTI projekteja, niin prosessi tulee tutuksi. Ainakin 3?
+			- koeta pitää aika harjoituspainotteisena
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento5.rmd
 	1. käydään läpi projektipohjat
@@ -188,10 +194,12 @@
 		finalize + output-tiedostot
 	4. käännöseditoriin tutustumista 2
 		äsken luotuja tiedostoja ruvetaan kääntämään
-[ ] ma 9.10. luento 6: muut tiedostomuodot 1
-	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento6b.rmd
-		rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
+[X] ma 9.10. luento 6: Käännöseditori
+	Muista käsitellä!
+		- Trados-CHEATSEET!
+		- MUISTIN fyysinen sijainti ja muistin kopioiminen
+		- kielivarianttien vaihto?
+		- toimivia ubuntumuisteja
 	viime kerrasta jääneitä projektiasetuksia
 		- avataan kaikki projektipaketit
 		- käännetään pikku käännös loppuun asti
@@ -216,7 +224,10 @@
 		tägien syöttäminen
 	eksotiikkaa: mainitse tekstitystiedostot (subrip/.srt)
 		+ kaikki muut tärkeämmät tiedostotyypit
-[ ] ma 23.10 luento 7: muut tiedostomuodot 2
+[_] ma 23.10 luento 7: muut tiedostomuodot 1
+	muista käsitellä
+		- Projektipaketti! --> Joku tiedostomuotoharjoituksista voisi tulla pakettina? --> Tehtävänä myös palauttaa paketti
+			- kun paketti palautettu, siirrytään jo tekemään seuraavaa harjoitusta, jossa käytetään ihan vain sitä, että pitää alusta asti luoda projekti itse
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento7.rmd
 		rohkaise opiskelijoita itsekin avaamaan esitys moodlesta!
@@ -231,7 +242,7 @@
 	pdf ja konvertointi?
 	käännetään tiedostoja
 		tägien syöttämisen eri tekniikat yhteisesti
-[ ] ma 30. 10. luento 8: edistyneemmät editoritoiminnot ja mitä sitten, kun käännös on valmis
+[_] ma 30. 10. luento 8: edistyneemmät editoritoiminnot ja mitä sitten, kun käännös on valmis
 	ehkä?
 		Kokeile wordfastillä konekääntimen mukanaoloa?
 	tradosin asetusten säätäminen mukaviksi
@@ -270,7 +281,7 @@
 		- verifioidaan käännökset, viimeistellään
 		- projektimuistin luominen myös lopuksi
 		- muistin muokkaaminen
-[ ] ma 6.11. luento 9: lisää resursseja! kohdistaminen ym.
+[_] ma 6.11. luento 9: lisää resursseja! kohdistaminen ym.
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento9.rmd
 	- aluksi: mitä kohdistamisella tarkoitetaan ja mitä hyötyä siitä on?
@@ -292,7 +303,7 @@
 		3.a liitä joka segmenttiin varsinaisen segmentin jälkeen segmentti, joka sisältää vain lemmat joka sanasta
 		3.b ??
 		4. Tee konkordanssihakuja
-[ ] ma 13.11. luento 10: kohdistus: käytäntöä
+[_] ma 13.11. luento 10: kohdistus: käytäntöä
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento10.rmd
 	- muodostetaan harjoituksena yhdessä oma muisti jostain opuksen (esim. tietoteknisestä) korpuksesta
@@ -302,7 +313,7 @@
 		- muistin luominen
 	- käännöstehtävä resursseja hyödyntäen?
 	- netin valmiit korpusaineistot/käyttöliittymät: linguee, glosbe, huom: abbyy lingo live
-[ ] ma 20.11. luento 11: termipankit: teoriaa
+[_] ma 20.11. luento 11: termipankit: teoriaa
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento11.rmd
 	- kudashevin työkaluista ja venäjän puolella tehtävästä työstä!
@@ -312,7 +323,7 @@
 	- tehdään pieni eu-aiheinen käännös, jota varten luodaan termitietokanta on the fly
 		- luonti tapahtuu kieliparikohtaisissa ryhmissä
 		- ryhmät luovat taulukon google drivessa / o365:ssa
-[ ] ma 27.11. luento 12: termipankit: käytäntöä
+[_] ma 27.11. luento 12: termipankit: käytäntöä
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento12.rmd
 	tunnin kulku
@@ -341,7 +352,7 @@
 				- pohditaan tätä lähestymistapaa vaihtoehtona taulukoille
 			- mahdollisesti kenttä "1. vaihtoehto"
 		8. käännetään lopputunti
-[ ] ma 4.12. luento 13: tarkastusprosessi + kertausta
+[_] ma 4.12. luento 13: tarkastusprosessi + kertausta
 	tunnin kulku
 		- HUOM: Update from Bilingual Review -prosessi!! (ks. M. dia "Käännösprosessi valmis")
 		0. käännetään n. 10.45 asti
@@ -365,7 +376,7 @@
 	projektimuistista vielä kerran
 	omien ja toisten käännösten tarkistusta ja palauttamista takaisin
 	otsikko: intro
-[ ] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute
+[_] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento14.rmd
 	tunnin kulku
@@ -398,3 +409,11 @@
 		q&a
 		kurssipalaute
 			- opitko kurssilla jotain muuta kuin tradosiin liittyvää
+Miian käyttämät matskut:
+	BabyBjörn, Ponsse, Matkailutekstit vanhoista pajoista, Agenttisopimus
+	lisäksi itse käyttänyt pajassa Ponssea + BB
+TODO
+	- käännöksen aloittaminen paketilla
+	- muuta testattavissa olevat aloitustavat
+	- tmx-vaihto
+	- trados-oppaaseen: segmenttisääntöjen muuttaminen, esimerkkinä lähdeviitteet ja kaksoispiste

@@ -14,8 +14,10 @@
 
 @import 'basiclayout/quotes';
 @import 'basiclayout/links';
+@import 'basiclayout/grid';
 
 @import 'plugins/speaker-notes';
 @import 'plugins/substep';
 
 @import 'patterns/quickstyling';
+@import 'patterns/_keyboard.scss';

@@ -46,14 +46,19 @@ gulp.task("html",function(){
 		.pipe(gulp.dest(folder.build + "luennot/"))
 });
 
+gulp.task("otherhtml",function(){
+        gulp.src(folder.src + "materiaalit/**/*")
+        .pipe(gulp.dest(folder.build + "materiaalit/"))
+});
+
 gulp.task("watch",function(){
 
     gulp.watch(folder.src + "src/impressjs/*.js",["js"]);
     gulp.watch(folder.src + "sass/**/*",["css"]);
-    gulp.watch(folder.src + "/**/*.html",["html"]);
-    gulp.watch(folder.src + "/luennot/**/*.html",["html"]);
+    gulp.watch(folder.src + "luennot/**/*.html",["html"]);
+    gulp.watch(folder.src + "materiaalit/**/*",["otherhtml"]);
 
 });
 
-gulp.task('run',['js','css','html']);
+gulp.task('run',['js','css','html','otherhtml']);
 gulp.task('default',['run','watch']);
