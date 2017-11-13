@@ -242,10 +242,13 @@
 	pdf ja konvertointi?
 	käännetään tiedostoja
 		tägien syöttämisen eri tekniikat yhteisesti
-[_] ma 30. 10. luento 8: muut tiedostomuodot2
+[X] ma 30. 10. luento 8: muut tiedostomuodot2 
 	Muista käsitellä:
 		- Excel-tiedostot?
 		- tekstitystiedostot?
+		- Helpot tavat päästä käännökseen:
+			- Projektipaketti
+			- Kääntämään lähteminen vain avaamalla tiedosto
 	ehkä?
 		Kokeile wordfastillä konekääntimen mukanaoloa?
 	tradosin asetusten säätäminen mukaviksi
@@ -284,7 +287,7 @@
 		- verifioidaan käännökset, viimeistellään
 		- projektimuistin luominen myös lopuksi
 		- muistin muokkaaminen
-[_] ma 6.11. luento 9: lisää resursseja! kohdistaminen ym.
+[X] ma 6.11. luento 9: Muut tiedostomuodot 3 + helpot liikeellelähdöt
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento9.rmd
 	- aluksi: mitä kohdistamisella tarkoitetaan ja mitä hyötyä siitä on?
@@ -306,7 +309,19 @@
 		3.a liitä joka segmenttiin varsinaisen segmentin jälkeen segmentti, joka sisältää vain lemmat joka sanasta
 		3.b ??
 		4. Tee konkordanssihakuja
-[_] ma 13.11. luento 10: kohdistus: käytäntöä
+[_] ma 13.11. luento 10: kohdistus ja valmiiden käännösmuistien ym. käyttö
+	UUtta ajatusta:
+		- ENsin kysytään, mitä korpuspohjaisia sanakirjapalveluja tietävät (missä voi hakea kontekstilla)
+			- listataan yhdessä:
+				- linguee
+				- glosbe
+				- abbyy online
+			- käydään esim. linguee:ssa ja katsotaan, mitä listannut lähteeksi
+			- mennään opuksen sivuille ja tutkitaan lähteitä
+			- koetetaan ladata itselle
+		- Heitetään ilmoille kysymys siitä, mitä tehdä, jos on omia tekstejä
+		- Aloitetaan siitä, mistä viime kerralla analysoidut lähteet ovat peräisin
+			- ajatuksena: käyttää samoja materiaaleja mitä esim. glosbe, mutta
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento10.rmd
 	- muodostetaan harjoituksena yhdessä oma muisti jostain opuksen (esim. tietoteknisestä) korpuksesta
@@ -316,7 +331,9 @@
 		- muistin luominen
 	- käännöstehtävä resursseja hyödyntäen?
 	- netin valmiit korpusaineistot/käyttöliittymät: linguee, glosbe, huom: abbyy lingo live
-[_] ma 20.11. luento 11: termipankit: teoriaa
+[_] ma 20.11. luento 11: kohdistus ja termipankit 1
+	Koeta saada käsitellyksi:
+		 - omien tekstien kohdistus
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento11.rmd
 	- kudashevin työkaluista ja venäjän puolella tehtävästä työstä!
@@ -326,7 +343,7 @@
 	- tehdään pieni eu-aiheinen käännös, jota varten luodaan termitietokanta on the fly
 		- luonti tapahtuu kieliparikohtaisissa ryhmissä
 		- ryhmät luovat taulukon google drivessa / o365:ssa
-[_] ma 27.11. luento 12: termipankit: käytäntöä
+[_] ma 27.11. luento 12: kohdistus ja termipankit 2
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento12.rmd
 	tunnin kulku
@@ -379,7 +396,7 @@
 	projektimuistista vielä kerran
 	omien ja toisten käännösten tarkistusta ja palauttamista takaisin
 	otsikko: intro
-[_] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute
+[_] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute + kertausta
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento14.rmd
 	tunnin kulku
@@ -416,7 +433,6 @@ Miian käyttämät matskut:
 	BabyBjörn, Ponsse, Matkailutekstit vanhoista pajoista, Agenttisopimus
 	lisäksi itse käyttänyt pajassa Ponssea + BB
 TODO
-	- käännöksen aloittaminen paketilla
 	- muuta testattavissa olevat aloitustavat
 	- tmx-vaihto
 	- trados-oppaaseen: segmenttisääntöjen muuttaminen, esimerkkinä lähdeviitteet ja kaksoispiste
