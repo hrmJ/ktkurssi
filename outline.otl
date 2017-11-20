@@ -309,7 +309,7 @@
 		3.a liitä joka segmenttiin varsinaisen segmentin jälkeen segmentti, joka sisältää vain lemmat joka sanasta
 		3.b ??
 		4. Tee konkordanssihakuja
-[_] ma 13.11. luento 10: kohdistus ja valmiiden käännösmuistien ym. käyttö
+[X] ma 13.11. luento 10: kohdistus ja valmiiden käännösmuistien ym. käyttö
 	UUtta ajatusta:
 		- ENsin kysytään, mitä korpuspohjaisia sanakirjapalveluja tietävät (missä voi hakea kontekstilla)
 			- listataan yhdessä:
@@ -331,9 +331,11 @@
 		- muistin luominen
 	- käännöstehtävä resursseja hyödyntäen?
 	- netin valmiit korpusaineistot/käyttöliittymät: linguee, glosbe, huom: abbyy lingo live
-[_] ma 20.11. luento 11: kohdistus ja termipankit 1
+[_] ma 20.11. luento 11: kohdistus2 (tradosin kohdistin + winaligner + opus)
 	Koeta saada käsitellyksi:
 		 - omien tekstien kohdistus
+		 - kysymys luentopvk-aikataulusta
+		 - mahdollisesti esimakuatermipankeista
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento11.rmd
 	- kudashevin työkaluista ja venäjän puolella tehtävästä työstä!
@@ -343,92 +345,29 @@
 	- tehdään pieni eu-aiheinen käännös, jota varten luodaan termitietokanta on the fly
 		- luonti tapahtuu kieliparikohtaisissa ryhmissä
 		- ryhmät luovat taulukon google drivessa / o365:ssa
-[_] ma 27.11. luento 12: kohdistus ja termipankit 2
+[_] ma 27.11. luento 12: Termipankit 1
 	luentodiat
 		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento12.rmd
 	tunnin kulku
-		1. käsitellään kysymys poissaoloista
-		2. käsitellään kurssisuorituksia
-			- kertauskysymykset
-			- käännös, termitietokanta, essee
-			- päivämäärä
-				- haluaako joku nopeammin?
-		3. luodaan harjoitusta varten muisti netistä
-			- ladataan tmx
-				- en,sa dgt
-				- ve: opus
-		4. luodaan termitietokanta viime kerran pohjalta
-			1. konvertoidaan taulukko multiterm-muotoon
-			2. luodaan uusi tietokanta konversion tuloksena saadusta mallista
-			3. tuodaan xml osaksi tietokantaa
-		5. katsotaan, että autosuggest on päällä
-		6. luodaan projekti, jossa on sekä käännösmuisti että termitietokanta (itsenäisesti)
-		7. katsotaan termitietokannan toimintaa käytännössä
-			- klikkaa tyhjää segmenttiä
-			- konkordanssihaku muistista
-			- autosuggest
-			- termin syöttäminen käännökseen
-			- kokeillaan uuden termin lisäämistä lennosta
-				- pohditaan tätä lähestymistapaa vaihtoehtona taulukoille
-			- mahdollisesti kenttä "1. vaihtoehto"
-		8. käännetään lopputunti
-[_] ma 4.12. luento 13: tarkastusprosessi + kertausta
+		- Käydään läpi teoriaa termipankeista
+		- opetellaan termipankin luomista tradosissa suurpiirteisesti
+		- opetellaan tuominen excelistä
+		- aloitetaan tehtävää
+[_] ma 4.12. luento 13: Termipankit 2
 	tunnin kulku
-		- HUOM: Update from Bilingual Review -prosessi!! (ks. M. dia "Käännösprosessi valmis")
-		0. käännetään n. 10.45 asti
-			- kysytään samalla kertausaiheita
-			- jos ei juurikaan, niin lopusta ei tarvitse jättää siihen aikaa
-		1. valitaan pari (mieluiten omasta kieliparista)
-			- jos ei mene tasan?
-				- pääasia, että jokainen saa tarkastaa
-				- joku saa palautteen kahdelta, mutta jää itse vaille
-				- ellei joku jaksa tarkistaa kahta
-				- katsoo joltain toiselta, miltä palautettu näyttää
-				- sille lähetetään joku muu saman kielen tarkistettu
-			- pidetään huolta, että jokainen saa joltakulta tekstin
-		2. lähetetään oma sdlxliff-tiedosto/paketti kaverille 
-			- voidaan tehdä niin, että viestiketju moodlessa
-			- avataan open for review -toiminnolla
-			- tarkistetaan, verifioidaan, tehdään return package
-		3. käydään läpi, mitä tarkistaminen tradosissa tarkoittaa
-		4. testataan word-tarkistustiedoston tekoa ja tuomista
-		6. kerrataan termipankin luominen
-	projektimuistista vielä kerran
-	omien ja toisten käännösten tarkistusta ja palauttamista takaisin
-	otsikko: intro
-[_] ma 11.12. luento 14: edistyneempää tiedonhakua + kurssipalaute + kertausta
-	luentodiat
-		k:\opetus\kaannostyopaja2\kaannostyopaja\mvks47_luento14.rmd
+		- Tehdään termipankkitehtävää
+			- Etsitään esimerkkejä suoraan niistä resursseista, joita edellisillä tunneilla käytettiin
+		- Luodaan käännösprojekti, jossa oikeasti käytetään äsken luotua termipankkia
+			- jokin EU(/yk?)-aiheinen teksti?
+[_] ma 11.12. luento 14: Tarkistajan rooli
 	tunnin kulku
-		1. luodaan kokeilukäyttäjätilit sketch engine -palveluun
-			- jätetään hautumaan eli odotellaan, että sähköposteihin tulee vahvistus
-		2. kerrataan käännösmuisteista
-			projektimuisti vs. main translation memories
-			tmx-tuonti/vienti
-			muistin voi luodassa useammassa eri paikassa
-			muistin voi liittää vaikka kesken projektin
-				- project settings aina apuna
-			poistaminen,korvaaminen, etsiminen
-		3. testataan sketch engine -palvelua
-			1. word sketch
-				- suomi: populisti, harvesteri
-				- englanti: consider
-					- klikkaa jotakin esimerkkiä
-			2. thesaurus
-				- englanti: consider
-					- klikkaa esimerkkiä, niin antaa sketch diffin
-			3. korpuksen luominen jonkin aihepiirin ympärille
-				- kysy aihetta 
-				- fysiikka?
-		4. testataan automaattista wikipediasanastoa
-			- imacros
-		5. kurssipalaute (5 min)
-	aiheita
-		sketch engine / nosketch engine
-		(wikipediatiedon automatisointia)
-		q&a
-		kurssipalaute
-			- opitko kurssilla jotain muuta kuin tradosiin liittyvää
+		- Moodlesta ladataan oman B-työkielen mukainen projektipaketti.
+			- tässsä paketissa tehtävänä tarkistaa (review)
+			- tehdään tarkistus ja palautetaan paketti (paitsi ettei ehkä onnistu?).
+		- Moodlesta ladataan oman B-työkielen mukainen word-tarkistuspaketti
+			- tehdään tarkistus ja palautetaan opettajalle
+			- Opettaja avaa skriinillä jonkun saamistaan tiedostoista
+		- Lisäksi mahd: sdlxliff-tiedostoilla
 Miian käyttämät matskut:
 	BabyBjörn, Ponsse, Matkailutekstit vanhoista pajoista, Agenttisopimus
 	lisäksi itse käyttänyt pajassa Ponssea + BB
