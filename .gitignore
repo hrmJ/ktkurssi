@@ -2,3 +2,5 @@ node_modules
 .sass-cache
 *.lock
 *-lock.json
+data/*.tmx
+data/.httr-oauth
