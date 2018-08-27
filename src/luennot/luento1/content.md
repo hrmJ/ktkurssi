@@ -38,8 +38,11 @@ Luennon kulku
 
 - Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä Tradosin?
 - Kysymys: haluaisiko joku antaa itsensä testikaniiniksi, niin että asennamme yhdessä WordFastin?
+- Kysymys: Olettaako joku, että on perioditauko?
 
 - LUODAAN JOKAISELLE kurssikansio X-asemalle!
+- (HUOM!) Ensi kerraksi: Lukekaa SmartCat-sopimusehtoja (https://www.smartcat.ai/terms/).
+- HUOM! Kysy, onko kaikille OK että siirretään 25.9. kerta 10.12.?
 
 Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita kuin Trados)
 ---------------------------------------------------------------------------------------
@@ -47,11 +50,13 @@ Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita ku
 - ryhmä 1: memoQ
 - ryhmä 2: WordFast
 - ryhmä 3: Deja Vu
-- ryhmä 4: MateCat
+- ryhmä 4: SmartCat
 
 - Selvitetään kustakin:
     - (halvin mahdollinen) hinta
     - käyttöliittymävaihtoehdot (Web? Studio? Word-integraatio?)
     - Millä itseään markkinoi?
     - onko tunnettu?
+    - Muuta huomionarvoista Wikipediasta (kehota tutkailemaan tarkasti wp:aa ennemmin kuin omia sivuja)
+
 
