@@ -41,6 +41,7 @@ Luennon kulku
 [wikipedia](https://en.wikipedia.org/wiki/SmartCAT)
 
 
+
 >13. Your Content
 >
 >Under no circumstances we have any intellectual property rights to any Content
@@ -125,6 +126,23 @@ implemented. "
     - Testaa oikeassa ylänurkassa olevaa Download-nappia
 
 Huonoa, ehkä: käännösmuistin muokkaus pilvessä ei onnistu (?)
+
+
+# Käännösharjoitukset
+
+
+1. Käännetään liikuntaseuran viikko-ohjelma no 1. SmartCatilla.
+2. Käännetään liikuntaseuran viikko-ohjelma no 1. WordFastilla.
+3. Käännetään liikuntaseuran viikko-ohjelma no 2. SmartCatilla. (käytetään ekasta muistia)
+4. Käännetään liikuntaseuran viikko-ohjelma no 2. WordFastilla. (käytetään ekasta muistia)
+(5. kokeillaan siirtää  muistia SmartCatista WordFastiin ja toisin päin)
+
+2. Käännetään liikuntaseuran viikko-ohjelma no 1.
+
+
+### LOPUKSI
+
+Jaetaan kokemuksia
 
 
 ### Muut

@@ -44,6 +44,8 @@ Luennon kulku
 - (HUOM!) Ensi kerraksi: Lukekaa SmartCat-sopimusehtoja (https://www.smartcat.ai/terms/).
 - HUOM! Kysy, onko kaikille OK että siirretään 25.9. kerta 10.12.?
 
+
+
 Ryhmätehtävä (jatkuu kotona?): tutkitaan erilaisia CAT-vaihtoehtoja (muita kuin Trados)
 ---------------------------------------------------------------------------------------
 
