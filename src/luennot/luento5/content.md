@@ -1,6 +1,14 @@
 Luento 5
 ========
 
+Harjoituspainotteinen luento!
+
+- Tulosta jo tälle luennolle lista pikanäppäimistä: 
+https://puolukka.uta.fi/jhout/kaannosteknologia/materiaalit/cheatsheet.html
+- ekana tehtävänä on vielä kerran ladata ubuntu-tmx moodlesta
+ja luoda siitä uusi muisti. Huom! Kannattaa laittaa ruksuttamaan hyvissä ajoin
+- mainitse eroista Trados 2019:ssä!
+
 
 Luennon kulku
 -------------
